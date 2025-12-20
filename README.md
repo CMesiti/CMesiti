@@ -34,4 +34,4 @@
   - I bring creativity into everything I do, whether it’s cooking, coding, or learning something new
 ---
 
-# [✨PORTFOLIO✨](https://cmesiti.github.io/calebmesiti.github.io/index.html)
+# [✨PORTFOLIO✨](https://cmesiti.github.io/calebmesiti.github.io/)
