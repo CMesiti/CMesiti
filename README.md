@@ -1,6 +1,6 @@
 ## WELCOME! 👋
 
-> I'm a student at SUNY Brockport and highly interested in the fields of Artificial Intelligence and Data Science, currently conducting research on AI in medical applications particulary convolutional neural networks.
+> Back-end and data systems developer specializing in Python and SQL. Experienced in building RESTful APIs wielding Flask, SQLAlchemy, and PostgreSQL. Designed and implemented machine learning workflows in Databricks, and proven ability to integrate AI-driven features into full-stack applications. with 2+ years of educational and professional experience actively developing in Python and creating real-world proof-of-concept solutions. 
 <!--
 **CMesiti/CMesiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
