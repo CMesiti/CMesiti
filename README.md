@@ -30,8 +30,8 @@
 
 ---
 
--⚡ Fun fact:
-  - I bring creativity into everything I do, whether it’s cooking, coding, or learning something new
+-⚡Goal:
+  - Develop full-stack applications with AI-driven solutions.
 ---
 
 # [✨PORTFOLIO✨](https://cmesiti.github.io/calebmesiti.github.io/)
