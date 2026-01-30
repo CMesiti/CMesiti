@@ -7,10 +7,10 @@
 ---
 
 - 🔭 I’m currently working on:
-  - OCT image Classification Independent Study
-  - Data Analytics On Crypto Dataset
-  - Designing Reservations Application
-  - Backend Development for SUNY Brockports SIGAI Chapter
+  - NarrativeOS
+  - Data Structures and Algorithms
+  - System Architectures and Design Patterns
+  - RAG Agent Development.
 
 --- 
 
