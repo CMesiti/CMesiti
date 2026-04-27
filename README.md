@@ -16,11 +16,10 @@
 
 - 🌱 I’m currently learning:
     - Data Analytics
-    - Pytorch
-    - SQL
+    - ML & AI Integration
     - Docker
-    - Software Design
-    - Algorithms
+    - Software Design & Dev-Ops
+    - Algorithms 
 
 ---
 
