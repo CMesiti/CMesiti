@@ -34,3 +34,5 @@
 ---
 
 # [✨PORTFOLIO✨](https://cmesiti.github.io/calebmesiti.github.io/)
+# Check out my Scheduling App [Scheduler](https://resident-oncall-scheduler-rp2knjwefdtn798p2xxaf4.streamlit.app/)
+# Check out my flagship project NarrativeOS (Work In Progress) [NarrativeOS](https://github.com/CMesiti/NarrativeOS)
